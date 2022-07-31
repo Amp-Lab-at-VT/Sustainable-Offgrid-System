@@ -9,8 +9,7 @@ hero_height: is-small
 hero_darken: true
 tags: project
 series: amp_lab_project
-author: Jason Lin
-Robert Perkel
+author: Jason Lin, Robert Perkel
 show_sidebar: false
 ---
 
