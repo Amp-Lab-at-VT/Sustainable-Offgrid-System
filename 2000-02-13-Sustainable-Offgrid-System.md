@@ -4,7 +4,7 @@ title: Sustainable Offgrid System
 description: To create a relatively inexpensive, sustainable offgrid system (solar) that can accommodate a single person’s daily energy needs with 2-3 days of autonomy.
 date: 2000-02-13 09:00:00
 hero_image: /web/img/Sustainable-Offgrid-System/Hero.png
-image: /web/img/Sustainable-Offgrid-System/Hero.png
+# image /web/img/Sustainable-Offgrid-System/Hero.png
 hero_height: is-small
 hero_darken: true
 tags: project
