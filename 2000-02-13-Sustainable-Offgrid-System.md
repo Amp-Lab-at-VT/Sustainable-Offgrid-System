@@ -21,7 +21,7 @@ Jason Lin
 Robert Perkel
 
 ## Repo Link
-<a class="button is-link" href="https://github.com/Amp-Lab-at-VT/Sustainable-Offgrid-System"" >Sustainable-Offgrid-System</a>
+<a class="button is-link" href="https://github.com/Amp-Lab-at-VT/Sustainable-Offgrid-System" >Sustainable-Offgrid-System</a>
 
 ## Photo
 
